@@ -9,6 +9,18 @@ host-suffix,microsoft.com,Bing
 host-suffix,microsoftonline.com,Bing
 host-suffix,microsoft-tst.com,Bing
 
+# > MSN
+host-keyword,microsoftnews,Bing
+host-keyword,microsoft-online,Bing
+host-keyword,microsoftnewsforkids,Bing
+host-keyword,microsoftnewskids,Bing
+host-keyword,microsoftol,Bing
+host-keyword,msn,Bing
+host-keyword,msnewskids,Bing
+host-suffix,microsoftusercontent.com,Bing
+host-suffix,msnkids.com,Bing
+host-suffix,winmp.cn,Bing
+
 host-keyword,Bing,Bing
 host-keyword,biying,Bing
 host-suffix,bbing.com,Bing
