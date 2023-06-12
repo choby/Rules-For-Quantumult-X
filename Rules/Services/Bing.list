@@ -1,5 +1,14 @@
 
 # > Bing
+
+# >> Main
+user-agent,Microsoft*,Bing
+host-keyword,microsoft,Bing
+host-keyword,windows,Bing
+host-suffix,microsoft.com,Bing
+host-suffix,microsoftonline.com,Bing
+host-suffix,microsoft-tst.com,Bing
+
 host-keyword,Bing,Bing
 host-keyword,biying,Bing
 host-suffix,bbing.com,Bing
